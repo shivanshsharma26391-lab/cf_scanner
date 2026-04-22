@@ -5,7 +5,7 @@ package.domain = org.cfscanner
 source.dir = .
 source.include_exts = py
 version = 1.0
-requirements = python3==3.9.13,kivy==2.1.0,cython==0.29.33
+requirements = python3,kivy
 orientation = portrait
 android.permissions = INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 android.api = 33
